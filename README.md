@@ -136,6 +136,20 @@ Credentials<br />
 Proves<br />
 Private Keys<br /><br />
 
+# HOW TO SET UP:
+
+Please clone the repo by:
+
+git clone url ..
+
+then install node modules by:
+
+cd SSPimplementation/
+npm install
+cd aries-mobile-agent-react-native
+npm install 
+the rest of the instructions are in the README file, can be found under the aries-mobile-react-native folder, please see it.
+
 # REFERENCES:
 
 https://www.w3.org/TR/vc-data-model/#what-is-a-verifiable-credential
