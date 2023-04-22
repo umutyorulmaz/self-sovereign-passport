@@ -10,7 +10,7 @@ There are 3 main problems with the centrally issued passports. First, authentici
 
 Second, privacy; when we asked to provide the passport, many times we give out more information than necessary to the verifier. For instance, in order to book a plane ticket, the vendor just needs to know if we have a valid passport and if we require a visa or not. However, since currently there is no other way like zero knowledge proofs we have to provide whole passport with out sensitive information written on it. 
 
-Third, it is difficult to process a traditional paper passport online especially for serious tasks such as grant permission to pass the border.
+Third, it is difficult to process a traditional paper passport online especially for serious tasks such as visa approvals from the embassy.
 
 # GOALS: 
 
@@ -20,7 +20,7 @@ First, reaching 100% authenticity by the help of verifiable credentials (a set o
 
 Second, improved privacy by using zero-knowledge proofs (A zero-knowledge proof is a cryptographic method where an entity can prove to another entity that they know a certain value without disclosing the actual value). In the above vendor-traveller example lets say the traveller has his/her passport as VC (verifiable credential), in that case the traveller doesnt need to reveal all passport details to the vendor, s/he can just prove that it is possible for her/him to travel to the destination country.
 
-Third, enabling online operations empowered by verifiable credentials. 
+Third, enabling online operations empowered by peer to peer file sharing system. 
 
 # GLOSSARY:
 
