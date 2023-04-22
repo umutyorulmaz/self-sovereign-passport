@@ -140,7 +140,7 @@ Private Keys<br /><br />
 
 Please clone the repo by:
 
-git clone url ..
+git clone url https://github.com/umutyorulmaz/self-sovereign-passport.git
 
 then install node modules by:
 
