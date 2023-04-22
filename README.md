@@ -138,17 +138,11 @@ Private Keys<br /><br />
 
 # HOW TO SET UP:
 
-Please clone the repo by:
+In order to test the application please visit and follow the instructions at https://github.com/hyperledger/aries-mobile-agent-react-native<br />
 
-git clone url https://github.com/umutyorulmaz/self-sovereign-passport.git
+As a wallet BC wallet application can be used and downloaded from playstore for android and appstore for apple devices.
 
-then install node modules by:
-
-cd SSPimplementation<br />
-npm install<br />
-cd aries-mobile-agent-react-native<br />
-npm install<br /> 
-the rest of the instructions are in the README file, can be found under the aries-mobile-react-native folder, please see it.
+It will give you the basic idea of how self-sovereign passport system works.
 
 # REFERENCES:
 
