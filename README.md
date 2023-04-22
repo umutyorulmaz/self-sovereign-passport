@@ -136,9 +136,6 @@ Credentials<br />
 Proves<br />
 Private Keys<br /><br />
 
-# VIDEO DEMONSTRATION:
-
-
 # REFERENCES:
 
 https://www.w3.org/TR/vc-data-model/#what-is-a-verifiable-credential
