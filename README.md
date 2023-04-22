@@ -144,10 +144,10 @@ git clone url https://github.com/umutyorulmaz/self-sovereign-passport.git
 
 then install node modules by:
 
-cd SSPimplementation/
-npm install
-cd aries-mobile-agent-react-native
-npm install 
+cd SSPimplementation<br />
+npm install<br />
+cd aries-mobile-agent-react-native<br />
+npm install<br /> 
 the rest of the instructions are in the README file, can be found under the aries-mobile-react-native folder, please see it.
 
 # REFERENCES:
